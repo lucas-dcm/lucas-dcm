@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas-dcm
-- 👀 I’m interested in Cibersegurança
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python e OSINT
 - 📫 How to reach me lucas.dcm@protonmail.com
 
